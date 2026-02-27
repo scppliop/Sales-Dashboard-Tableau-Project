@@ -131,7 +131,7 @@ The dashboards support key business decisions such as:
 
 ## 📷 Dashboard Preview
 **Sales Dashboard**  
-![Sales Dashboard](images/Sales Dashboard.png)
+![Sales Dashboard](images/Sales_Dashboard.png)
 
 **Customer Dashboard**  
 <img width="2417" height="1613" alt="스크린샷 2026-02-21 180533" src="https://github.com/user-attachments/assets/72375947-62d1-4b69-8b96-0595eb9d6e1c" />
