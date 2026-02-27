@@ -137,7 +137,7 @@ The dashboards support key business decisions such as:
 ![Customer Dashboard](images/Customer_Dashboard.png)
 
 **Filters**  
-<img width="2391" height="1619" alt="스크린샷 2026-02-21 181341" src="https://github.com/user-attachments/assets/13c0474f-5e11-4ad7-8a8a-70e1d1872a37" />
+![Filters](images/Filters.png)
 
 ## 💡 Skills Demonstrated
 - End-to-end analytics project execution
